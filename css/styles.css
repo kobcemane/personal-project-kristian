@@ -13,13 +13,7 @@ body {
     font-size: 25px;
 }
 
-img {
-    height: 20px;
-    width: 20px;
-}
-
 /*This is where the css starts for the Top Nav & Footer on each page.*/
-
 
 .pph {
     margin: auto;
@@ -76,8 +70,7 @@ img {
     height: 50px;
     margin: auto;
     text-align: center;
-    margin-top: 17px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .footer ul {
@@ -97,7 +90,7 @@ img {
 
 /*This is where the css ends for the Top Nav & Footer on each page.*/
 
-/*This is where the css starts for the Featured page by Kristian!*/
+/*This is where the css starts for the Home page by Kristian!*/
 
 .header-featured {
     background-image: url(../images/header-personal-project.jpg);
@@ -115,24 +108,15 @@ img {
     color: #F2F2F2;
 }
 
-.page-title {
-    width: 960px;
-    margin: auto;
-}
-
-.page-title h1 {
-    text-align: left;
-    padding: 5px;
-}
-
 .featured-container {
     width: 660px;
     margin: auto;
-    position: right;
+    text-decoration: none;
 }
 
 .featured-container section div {
     display: inline-block;
+    text-decoration: none;
 }
 
 .featured-container section div p {
@@ -142,8 +126,9 @@ img {
     text-decoration: none;
 }
 
-.featured-container section div p {
+.featured-container section div a {
     text-decoration: none;
+    color: black;
 }
 
 .featured-container section img {
@@ -152,12 +137,169 @@ img {
     margin: 5px 5px 0px 5px;
 }
 
-.bottom-image {
-    margin-bottom: 20px;
+/*This is where the css ends for the Home page by Kristian!*/
+
+/*This is where the css starts for the One page by Kristian!*/
+
+.one-container {
+    width: 660px;
+    margin: auto;
 }
 
-/*This is where the css ends for the Featured page by Kristian!*/
+.one-container section div {
+    display: inline-block;
+}
 
+.one-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.one-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the One page by Kristian!*/
+
+/*This is where the css starts for the Two page by Kristian!*/
+
+.two-container {
+    width: 660px;
+    margin: auto;
+}
+
+.two-container section div {
+    display: inline-block;
+}
+
+.two-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.two-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the Two page by Kristian!*/
+
+/*This is where the css starts for the Three page by Kristian!*/
+
+.three-container {
+    width: 660px;
+    margin: auto;
+}
+
+.three-container section div {
+    display: inline-block;
+}
+
+.three-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.three-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the Three page by Kristian!*/
+
+/*This is where the css starts for the Four page by Kristian!*/
+
+.four-container {
+    width: 660px;
+    margin: auto;
+}
+
+.four-container section div {
+    display: inline-block;
+}
+
+.four-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.four-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the Four page by Kristian!*/
+
+/*This is where the css starts for the Five page by Kristian!*/
+
+.five-container {
+    width: 660px;
+    margin: auto;
+}
+
+.five-container section div {
+    display: inline-block;
+}
+
+.five-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.five-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the Five page by Kristian!*/
+
+/*This is where the css starts for the Six page by Kristian!*/
+
+.six-container {
+    width: 660px;
+    margin: auto;
+}
+
+.six-container section div {
+    display: inline-block;
+}
+
+.six-container section img {
+    width: 200px;
+    height: 250px;
+    margin: 5px 5px 0px 5px;
+}
+
+.six-container .copy {
+    display: inline-block;
+    width: 300px;
+    float: right;
+    padding: 40px;
+    text-align: center;
+}
+
+/*This is where the css ends for the Six page by Kristian!*/
 
 /* This is our color scheme:
 
