@@ -144,6 +144,7 @@ body {
 .one-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .one-container section div {
@@ -160,7 +161,7 @@ body {
     display: inline-block;
     width: 300px;
     float: right;
-    padding: 40px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -171,6 +172,7 @@ body {
 .two-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .two-container section div {
@@ -185,9 +187,9 @@ body {
 
 .two-container .copy {
     display: inline-block;
-    width: 300px;
+    width: 355px;
     float: right;
-    padding: 40px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -198,6 +200,7 @@ body {
 .three-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .three-container section div {
@@ -212,9 +215,9 @@ body {
 
 .three-container .copy {
     display: inline-block;
-    width: 300px;
+    width: 360px;
     float: right;
-    padding: 40px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -225,6 +228,7 @@ body {
 .four-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .four-container section div {
@@ -239,9 +243,9 @@ body {
 
 .four-container .copy {
     display: inline-block;
-    width: 300px;
+    width: 380px;
     float: right;
-    padding: 40px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -252,6 +256,7 @@ body {
 .five-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .five-container section div {
@@ -266,9 +271,9 @@ body {
 
 .five-container .copy {
     display: inline-block;
-    width: 300px;
+    width: 400px;
     float: right;
-    padding: 40px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -279,6 +284,7 @@ body {
 .six-container {
     width: 660px;
     margin: auto;
+    padding: 40px;
 }
 
 .six-container section div {
@@ -293,9 +299,9 @@ body {
 
 .six-container .copy {
     display: inline-block;
-    width: 300px;
+    width: 430px;
     float: right;
-    padding: 40px;
+    padding: 5px;
     text-align: center;
 }
 
